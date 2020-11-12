@@ -1,5 +1,5 @@
 ---
-title: "HelloWorld"
+title: "HElloWorld"
 author: "Frankie"
 date: "11/12/2020"
 output: word_document
@@ -8,10 +8,3 @@ output: word_document
 
 
 ## This is a markdown file
-
-```{r}
-print("Hello World")
-```
-
-
-
